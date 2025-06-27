@@ -1,0 +1,75 @@
+[2025-06-19T10:29:23.498435200] Lucas heeft het spel gestart.
+[2025-06-19T10:29:24.846940600] Lucas heeft de spel afgesloten.
+[2025-06-19T10:38:49.901769100] TestSubject1 heeft het spel gestart.
+[2025-06-19T10:44:21.469169800] TestSubject1 betreedt kamer: Sprint Planning
+[2025-06-19T10:45:08.641037400] TestSubject1 betreedt kamer: Sprint Planning
+[2025-06-19T10:45:52.899316200] TestSubject1 betreedt kamer: Sprint Planning
+[2025-06-19T10:46:03.400167] TestSubject1 betreedt kamer: Sprint Planning
+[2025-06-19T10:46:40.939307200] TestSubject1 betreedt kamer: Sprint Planning
+[2025-06-19T10:46:46.639618300] TestSubject1 betreedt kamer: Daily Scrum
+[2025-06-19T10:46:56.275108] TestSubject1 betreedt kamer: Daily Scrum
+[2025-06-19T10:47:27.489093500] TestSubject1 betreedt kamer: Daily Scrum
+[2025-06-19T10:48:11.993062200] TestSubject1 heeft de spel afgesloten.
+[2025-06-19T10:55:37.891172500] LUcas heeft het spel gestart.
+[2025-06-19T10:56:03.199416300] LUcas betreedt kamer: Sprint Planning
+[2025-06-19T10:56:07.201997700] LUcas betreedt kamer: Sprint Planning
+[2025-06-19T10:56:40.188185500] LUcas betreedt kamer: Sprint Planning
+[2025-06-19T10:56:57.085206300] LUcas betreedt kamer: Sprint Planning
+[2025-06-19T10:57:08.679359500] LUcas betreedt kamer: Sprint Planning
+[2025-06-19T10:57:21.488688200] LUcas betreedt kamer: Daily Scrum
+[2025-06-19T10:57:40.590915600] LUcas betreedt kamer: Daily Scrum
+[2025-06-19T10:58:12.601962500] LUcas heeft de spel afgesloten.
+[2025-06-19T11:10:36.985822300] Lucas heeft het spel gestart.
+[2025-06-19T11:17:17.806538500] Lucas betreedt kamer: Sprint Planning
+[2025-06-19T11:17:18.840793100] Lucas heeft de spel afgesloten.
+[2025-06-19T11:31:17.771504700] Lucas heeft het spel gestart.
+[2025-06-19T11:32:01.766610900] Lucas betreedt kamer: Sprint Planning
+[2025-06-19T11:32:12.012914400] Lucas betreedt kamer: Sprint Planning
+[2025-06-19T11:32:24.383071] Lucas betreedt kamer: Daily Scrum
+[2025-06-19T11:32:32.865676700] Lucas betreedt kamer: Daily Scrum
+[2025-06-19T11:32:47.753269100] Lucas betreedt kamer: Daily Scrum
+[2025-06-19T11:32:53.064473600] Lucas betreedt kamer: Scrum Board
+[2025-06-19T11:33:23.398417200] Lucas betreedt kamer: Scrum Board
+[2025-06-19T11:33:29.652715500] Lucas betreedt kamer: Sprint Review
+[2025-06-19T11:33:31.805232600] Lucas betreedt kamer: Sprint Review
+[2025-06-19T11:34:07.687696700] Lucas betreedt kamer: Sprint Review
+[2025-06-19T11:34:32.748265600] Lucas heeft de spel afgesloten.
+[2025-06-19T11:47:14.744048400] zomervakantie heeft het spel gestart.
+[2025-06-19T11:47:48.012727100] zomervakantie betreedt kamer: Sprint Planning
+[2025-06-19T11:47:56.285202300] zomervakantie betreedt kamer: Sprint Planning
+[2025-06-19T11:48:11.699876600] zomervakantie betreedt kamer: Sprint Planning
+[2025-06-19T11:48:26.023853300] zomervakantie betreedt kamer: Daily Scrum
+[2025-06-19T11:49:01.839041200] zomervakantie betreedt kamer: Daily Scrum
+[2025-06-19T11:49:54.902381800] zomervakantie heeft de spel afgesloten.
+[2025-06-19T11:56:30.557220900] Jesper the Bard heeft het spel gestart.
+[2025-06-19T11:57:13.583435700] Jesper the Bard betreedt kamer: Sprint Planning
+[2025-06-19T11:57:23.593861] Jesper the Bard betreedt kamer: Sprint Planning
+[2025-06-19T11:57:31.600527300] Jesper the Bard betreedt kamer: Daily Scrum
+[2025-06-19T11:57:37.695968800] Jesper the Bard betreedt kamer: Daily Scrum
+[2025-06-19T11:57:40.692088700] Jesper the Bard betreedt kamer: Daily Scrum
+[2025-06-19T11:58:11.852705500] Jesper the Bard betreedt kamer: Daily Scrum
+[2025-06-19T11:58:20.865004800] Jesper the Bard betreedt kamer: Scrum Board
+[2025-06-19T11:58:41.649453100] Jesper the Bard betreedt kamer: Scrum Board
+[2025-06-19T11:59:01.256168500] Jesper the Bard heeft de spel afgesloten.
+[2025-06-19T12:04:14.388917800] Zomervakantie heeft het spel gestart.
+[2025-06-19T12:04:24.848790100] Zomervakantie betreedt kamer: Sprint Planning
+[2025-06-19T12:04:30.865449500] Zomervakantie betreedt kamer: Sprint Planning
+[2025-06-19T12:04:50.897650300] Zomervakantie betreedt kamer: Sprint Planning
+[2025-06-19T12:05:10.975924200] Zomervakantie betreedt kamer: Daily Scrum
+[2025-06-19T12:06:24.651896] Zomervakantie betreedt kamer: Daily Scrum
+[2025-06-19T12:06:42.031753800] Zomervakantie betreedt kamer: Daily Scrum
+[2025-06-19T12:06:49.480580800] Zomervakantie heeft de spel afgesloten.
+[2025-06-19T12:10:38.040729600] Jar heeft het spel gestart.
+[2025-06-19T12:10:42.704521200] Jar betreedt kamer: Sprint Planning
+[2025-06-19T12:11:31.416912800] Jar betreedt kamer: Sprint Planning
+[2025-06-19T12:12:20.871155700] Jar betreedt kamer: Sprint Planning
+[2025-06-19T12:12:37.237042200] Jar betreedt kamer: Sprint Planning
+[2025-06-19T12:12:42.998385] Jar betreedt kamer: Sprint Planning
+[2025-06-19T12:13:11.392546] Jar betreedt kamer: Sprint Planning
+[2025-06-19T12:13:23.508175800] Jar betreedt kamer: Daily Scrum
+[2025-06-19T12:14:58.022066700] Jar heeft de spel afgesloten.
+[2025-06-19T12:25:31.591663500] OpblaasKrokodil heeft het spel gestart.
+[2025-06-19T12:25:45.056035400] OpblaasKrokodil betreedt kamer: Sprint Planning
+[2025-06-19T12:41:44.035407400] OpblaasKrokodil betreedt kamer: Sprint Planning
+[2025-06-19T12:41:44.789070300] OpblaasKrokodil heeft de spel afgesloten.
+[2025-06-20T13:04:23.778979700] Lucas heeft het spel gestart.
