@@ -20,6 +20,7 @@ public class SprintPlanningKamer extends Kamer {
     protected boolean valideerAntwoord(Speler speler) {
         boolean juist = strategie.voerUit();
         if (!juist) {
+            KamerObserver.registreerFout();
             new Monster("Scope Creep", "Je hebt te veel werk of onrealistische taken gekozen.").verschijn();
 
             System.out.println("Wil je een hint? (ja/nee): ");
@@ -28,9 +29,12 @@ public class SprintPlanningKamer extends Kamer {
             if(vraag.equalsIgnoreCase("ja")){
                 HintProvider hint = RandomHintSelector.kiesHintProvider();
                 System.out.println(hint.getHint());
+                HintObserver.registreerHintGebruik();
             } else {
                 System.out.println("(nog) niet nodig dus.");
             }
+        } else {
+            KamerObserver.registreerCorrect();
         }
         return juist;
     }

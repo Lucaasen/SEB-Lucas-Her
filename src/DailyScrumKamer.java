@@ -21,6 +21,7 @@ public class DailyScrumKamer extends Kamer {
     protected boolean valideerAntwoord(Speler speler) {
         boolean juist = strategie.voerUit();
         if (!juist) {
+            KamerObserver.registreerFout();
             new Monster("Verwarring", "Zonder duidelijk doel raken teamleden de weg kwijt.").verschijn();
 
             System.out.println("Wil je een hint? (ja/nee): ");
@@ -29,9 +30,12 @@ public class DailyScrumKamer extends Kamer {
             if(vraag.equalsIgnoreCase("ja")){
                 HintProvider hint = RandomHintSelector.kiesHintProvider();
                 System.out.println(hint.getHint());
+                HintObserver.registreerHintGebruik();
             } else {
                 System.out.println("(nog) niet nodig dus.");
             }
+        } else {
+            KamerObserver.registreerCorrect();
         }
         return juist;
     }

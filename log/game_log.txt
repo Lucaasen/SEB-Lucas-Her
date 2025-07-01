@@ -73,3 +73,23 @@
 [2025-06-19T12:41:44.035407400] OpblaasKrokodil betreedt kamer: Sprint Planning
 [2025-06-19T12:41:44.789070300] OpblaasKrokodil heeft de spel afgesloten.
 [2025-06-20T13:04:23.778979700] Lucas heeft het spel gestart.
+[2025-06-30T11:08:44.401142200] Lucas heeft het spel gestart.
+[2025-06-30T11:08:51.296291500] Lucas betreedt kamer: Sprint Planning
+[2025-06-30T11:09:01.112716300] Lucas betreedt kamer: Sprint Planning
+[2025-06-30T11:09:06.124929500] Lucas betreedt kamer: Daily Scrum
+[2025-06-30T11:10:03.840381600] Lucas betreedt kamer: Daily Scrum
+[2025-06-30T11:10:07.128243400] Lucas betreedt kamer: Scrum Board
+[2025-06-30T11:10:13.862714400] Lucas betreedt kamer: Scrum Board
+[2025-06-30T11:10:19.664659100] Lucas betreedt kamer: Sprint Review
+[2025-06-30T11:11:10.366204200] Lucas betreedt kamer: Sprint Review
+[2025-06-30T11:11:28.465399500] Lucas betreedt kamer: Retrospective
+[2025-06-30T11:11:48.276386700] Lucas betreedt kamer: Retrospective
+[2025-06-30T11:11:53.136590] Lucas betreedt kamer: Scrum Pilaren
+[2025-06-30T11:12:14.516741300] Lucas betreedt kamer: Scrum Pilaren
+[2025-06-30T11:12:37.930363300] Lucas betreedt kamer: Scrum Pilaren
+[2025-06-30T11:13:22.437311500] Lucas betreedt kamer: Scrum Pilaren
+[2025-06-30T11:13:26.278964700] Lucas betreedt kamer: Scrum Pilaren
+[2025-06-30T11:14:05.018642700] Lucas heeft de spel afgesloten.
+[2025-07-01T17:36:30.725532500] Lucas heeft het spel gestart.
+[2025-07-01T17:36:58.003099400] Lucas betreedt kamer: Scrum Pilaren
+[2025-07-01T17:37:15.502451200] Lucas heeft de spel afgesloten.
